@@ -1,4 +1,4 @@
-//FInd out Fibonacci Number
+//Find out Fibonacci Number
 import java.util.*;
 public class Fibonacci{
 public static void main(String [] args){
