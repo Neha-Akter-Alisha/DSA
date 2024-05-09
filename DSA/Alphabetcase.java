@@ -1,4 +1,4 @@
-//Alpha Case check
+//Alphabet Case check
 import java.util.*;
 public class Alphabetcase{
 public static void main(String [] args){
