@@ -1,3 +1,5 @@
+/*In Java, a nested switch statement is a switch statement that contains another switch statement as one of its case blocks.*/
+//Example of a Nested switch ase.
 import java.util.*;
 public class Statements5{
 public static void main(String [] args){
