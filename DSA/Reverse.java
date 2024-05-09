@@ -1,3 +1,4 @@
+//Input a number and then reverse it.
 package neha;
 import java.util.*;
 public class Reverse {
