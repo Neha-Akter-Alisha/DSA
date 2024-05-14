@@ -1,4 +1,4 @@
-//Print Square star pattern using Forloop
+//Print Solid Rectangle pattern using Forloop
 public class Pattern {
     public static void main(String[] args) {
         int n =4;
