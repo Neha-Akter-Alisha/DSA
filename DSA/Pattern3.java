@@ -1,4 +1,4 @@
-//Print the pattern of a Hollow Rectangle.
+//Print the pattern of a Half Pyramid.
 public class Pattern3 {
     public static void main(String[] args) {
         int n =4;
