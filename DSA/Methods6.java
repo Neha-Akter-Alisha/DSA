@@ -1,4 +1,5 @@
- import java.util.Scanner;
+//Find the Smallest Number Among Three Numbers
+import java.util.Scanner;
  public class Methods6 {
         public static void main(String[] args) {
             int a, b, c, smallest, temp;
