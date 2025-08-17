@@ -1,4 +1,4 @@
-package neha;//we can create package by noving our files to the package by using vs code quickfix. Here i moved counting folder in my neha package
+package neha;//we can create package by moving our files to the package by using vs code quickfix. Here i moved counting folder in my neha package
 //https://youtu.be/Bua6LQO2vQ8?si=sNxWFLME5GllHAHd  Watch this video on YT for more knowledge on packages.
 //Package is the folder in which your java files lies.
 import java.util.*;
@@ -14,4 +14,5 @@ while(n>0){
   }n /= 10;
 }System.out.println(i);
 }
+
 }
