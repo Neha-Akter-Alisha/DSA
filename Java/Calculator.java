@@ -5,8 +5,8 @@ public class Calculator{
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter two number:");
-        int num1 = sc.nextInt();
-        int num2 = sc.nextInt();
+        double num1 = sc.nextInt();
+        double num2 = sc.nextInt();
         System.out.println("Enter an operator(+,-,*,/,%):");
         char operator=sc.next().charAt(0);
         double result=0;
@@ -32,4 +32,5 @@ public class Calculator{
         System.out.println(result);
     }
 }
+
 
